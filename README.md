@@ -1,4 +1,4 @@
-<div align="center"> <h1>Opa me chamo Lucas, tudo bem com voçê? > 👋</h1    </div>
+<div align="center"> <h1>Opa me chamo Lucas, tudo bem com voçê?👋</h1 >   </div>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSCB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
