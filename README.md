@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-ori
 
 🔧 **Sistema de Helpdesk**  
 Aplicação web para abertura e gerenciamento de chamados de TI.  
-<a href="https://github.com/LucasSCB/NOME_DO_REPOSITORIO" target="_blank">
+<a href="[https://github.com/LucasSCB/NOME_DO_REPOSITORIO](https://github.com/LucasSCB/Projeto-de-Chamados)" target="_blank">
   🔗 Ver projeto
 </a>
 
